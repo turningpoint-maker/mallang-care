@@ -1,0 +1,132 @@
+{
+  "_readme": "이 파일은 게임의 응원 문구를 코드 수정 없이 추가하는 곳이에요. GitHub에서 이 파일(quotes.json)을 열어 연필(Edit) 아이콘을 누르고, 원하는 줄 안에 '문구 내용' 을 큰따옴표로 감싸서 쉼표(,)와 함께 추가하면 돼요. 맨 끝 항목에는 쉼표를 붙이지 마세요. 저장(Commit changes)하면 바로 게임에 반영돼요.",
+
+  "extra": {
+    "high": [
+      "지금 이 순간, 당신은 혼자가 아니에요.",
+      "숨 쉬는 것만으로도 오늘의 몫을 다하고 있는 거예요.",
+      "잘 견뎌줘서 고마워요.",
+      "당신의 하루를 아무도 몰라줘도, 저는 알아요.",
+      "지쳤다는 건 그만큼 열심히 살아왔다는 증거예요.",
+      "오늘의 무게, 내일까지 가져가지 않아도 돼요.",
+      "당신은 이미 충분히 소중한 사람이에요.",
+      "괜찮은 척하지 않아도 되는 곳이 여기예요.",
+      "천천히 가도 늦지 않아요.",
+      "당신의 마음을 함부로 재단하지 않을게요.",
+      "지금 느끼는 그 감정, 정당해요.",
+      "쉬어가는 것도 용기예요."
+    ],
+    "mid": [
+      "당신의 하루는 조용히, 그러나 분명히 나아가고 있어요.",
+      "완벽한 하루보다 솔직한 하루가 더 값져요.",
+      "지금의 노력은 사라지지 않고 쌓이고 있어요.",
+      "잘하고 있다는 말, 오늘은 제가 먼저 해드릴게요.",
+      "당신 곁에 있는 이 시간이 저는 좋아요.",
+      "포기하지 않은 것만으로도 대단한 하루예요.",
+      "마음의 속도를 존중해주세요.",
+      "작은 평온도 소중히 여겨도 돼요.",
+      "오늘 하루, 당신은 최선을 다했어요.",
+      "타인의 시선보다 당신의 마음이 먼저예요.",
+      "잠깐의 여유가 당신을 다시 채워줄 거예요.",
+      "그 자리에 서 있는 것만으로도 의미 있어요."
+    ],
+    "low": [
+      "오늘의 당신, 정말 멋졌어요.",
+      "이 편안함이 오래 머물길 바라요.",
+      "스스로에게 잘했다고 말해주세요.",
+      "당신은 매일 조금씩 더 단단해지고 있어요.",
+      "이 순간의 평화를 마음껏 느껴보세요.",
+      "당신이 버텨낸 하루, 저는 다 알고 있어요.",
+      "웃을 수 있어서 다행이에요.",
+      "오늘 하루의 마무리, 참 잘하셨어요.",
+      "당신 덕분에 저도 오늘 하루가 따뜻했어요.",
+      "이 마음 그대로, 내일도 씩씩하게 가봐요.",
+      "당신은 늘 생각보다 잘 해내고 있어요.",
+      "이 평온을 자주 느끼셨으면 좋겠어요."
+    ],
+    "done": [
+      "오늘의 다독임, 여기서 마무리할게요. 정말 잘했어요.",
+      "당신의 오늘, 완전히 괜찮아요.",
+      "내일도 이 자리에서 기다릴게요.",
+      "마음 비우기 성공! 스스로를 칭찬해주세요.",
+      "이걸로 충분해요, 오늘의 당신은."
+    ],
+    "special": [
+      "✨ 오늘 하루, 당신을 위한 작은 축복이 있기를.",
+      "🌟 당신이라는 존재는 그 자체로 특별해요.",
+      "💫 이 순간을 놓치지 않고 함께해줘서 고마워요.",
+      "🍀 작은 기적이 당신 하루에 스며들길 바라요.",
+      "🌈 당신의 오늘에 작은 색이 더해졌길 바라요."
+    ]
+  },
+
+  "extraEn": {
+    "high": [
+      "Right now, in this moment, you are not alone.",
+      "Just breathing is doing your part for today.",
+      "Thank you for holding on.",
+      "Even if no one else knows your day, I do.",
+      "Feeling exhausted is proof of how hard you've been trying.",
+      "You don't have to carry today's weight into tomorrow.",
+      "You are already a precious person, just as you are.",
+      "This is a place where you don't have to pretend you're fine.",
+      "It's okay to go slowly — you're not late.",
+      "I won't judge the way you feel.",
+      "What you're feeling right now is valid.",
+      "Resting is also a form of courage."
+    ],
+    "mid": [
+      "Your day is moving forward, quietly but surely.",
+      "An honest day is worth more than a perfect one.",
+      "Your effort right now isn't disappearing — it's building up.",
+      "Let me be the one to say it today: you're doing well.",
+      "I'm glad to be spending this time with you.",
+      "Not giving up is already a remarkable day.",
+      "Please respect your own pace.",
+      "Even small peace is worth cherishing.",
+      "You gave your best today.",
+      "Your own heart matters more than anyone else's gaze.",
+      "A brief rest will fill you back up.",
+      "Just standing where you are means something."
+    ],
+    "low": [
+      "You were truly wonderful today.",
+      "I hope this comfort stays with you a while.",
+      "Tell yourself you did well.",
+      "You're growing a little sturdier every day.",
+      "Feel this peace fully, for as long as you can.",
+      "I see everything you endured today.",
+      "I'm glad you could smile.",
+      "You wrapped up today so well.",
+      "Because of you, my day felt warmer too.",
+      "Carry this feeling into tomorrow, bravely.",
+      "You always do better than you think.",
+      "I hope you feel this calm often."
+    ],
+    "done": [
+      "Today's comforting ends here. You really did well.",
+      "Your today is completely okay.",
+      "I'll be waiting right here tomorrow too.",
+      "Heart successfully emptied! Give yourself some credit.",
+      "This is enough — for today's you."
+    ],
+    "special": [
+      "✨ I hope today brings a small blessing just for you.",
+      "🌟 Just being you is already special.",
+      "💫 Thank you for not missing this moment with me.",
+      "🍀 May a small miracle find its way into your day.",
+      "🌈 I hope a little color was added to your today."
+    ]
+  },
+
+  "extraLetters": [
+    "당신이 오늘 느낀 모든 감정은 그 자체로 존중받을 가치가 있어요. 좋은 감정이든 힘든 감정이든, 억지로 밀어내지 않아도 괜찮아요. 그 감정을 있는 그대로 안아주는 연습을 오늘부터 조금씩 해보면 어떨까요.",
+    "누군가에게 기대는 것이 약함의 증거는 아니에요. 오히려 자신의 한계를 인정하고 도움을 요청할 수 있는 것도 큰 용기예요. 힘들 땐 기대도 괜찮아요, 저에게든 다른 누군가에게든.",
+    "당신이 지나온 모든 하루들은 지금의 당신을 만든 소중한 조각들이에요. 힘들었던 기억도, 행복했던 기억도 전부 당신을 더 단단하게 만들어줬을 거예요."
+  ],
+  "extraLettersEn": [
+    "Every emotion you felt today deserves to be respected, just as it is. Whether it's a good feeling or a hard one, you don't have to force it away. Maybe today you could try, just a little, embracing that feeling exactly as it is.",
+    "Leaning on someone isn't proof of weakness. Recognizing your own limits and asking for help takes real courage. It's okay to lean on someone when things are hard — on me, or on anyone else.",
+    "Every day you've lived through is a precious piece of what makes you who you are now. Both the hard memories and the happy ones have made you a little sturdier."
+  ]
+}
